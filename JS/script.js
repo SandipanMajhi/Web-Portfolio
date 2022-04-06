@@ -2,9 +2,9 @@ var i = 0;
 var images = [];
 var slideTime = 3000;
 
-images[0] = 'https://unsplash.com/photos/bgiGfsJazpk/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NjV8fHdvbWVufGVufDB8MHx8fDE2NDkxMzM3Mzc&force=true&w=1920';
-images[1] = 'https://unsplash.com/photos/_KaMTEmJnxY/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTB8fHN1bW1lcnxlbnwwfDB8fHwxNjQ5MTQ2MDY2&force=true&w=1920';
-images[2] = 'https://unsplash.com/photos/Nkr_eOKG3IU/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjQ5MTU1OTk4&force=true&w=1920';
+images[0] = 'images/img1.jpg';
+images[1] = 'images/img2.jpg';
+images[2] = 'images/img3.jpg';
 
 function changePic(){
     var wall = document.getElementById("wall-back");
